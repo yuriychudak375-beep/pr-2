@@ -30,8 +30,14 @@ h1 {
     border-radius: 10px;
 }
 
+.icon {
+    width: 30px;
+    vertical-align: middle;
+}
+
 .direction {
     display: inline-block;
     width: 30%;
     margin: 10px;
 }
+
